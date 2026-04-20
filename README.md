@@ -131,8 +131,10 @@ Input: "Process sales/november.csv"
 4. Load summary to BigQuery gold_analytics.pipeline_results
 ```
 
-## 🤝 Contributing
+## 🤝 Contributing & Releases
 See [ADK Contributing Guide](adk-python/contributing/README.md). PRs welcome!
+
+**Latest Release**: [![Release](https://img.shields.io/badge/Release-new--release-brightgreen.svg)](https://github.com/pedapallisuresh/Data-Pipeline-Agent/releases/tag/new-release)
 
 ## 📄 License
 [Apache 2.0](LICENSE) © Google LLC
@@ -140,3 +142,4 @@ See [ADK Contributing Guide](adk-python/contributing/README.md). PRs welcome!
 ---
 
 ⭐ **Built with [Google ADK](https://google.github.io/adk-docs/)**
+
