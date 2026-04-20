@@ -4,6 +4,11 @@
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GCS%20%7C%20BigQuery-orange?logo=googlecloud)](https://cloud.google.com/)
 
+**Latest Release**: [![Release](https://img.shields.io/badge/Release-new--release-brightgreen.svg)](https://github.com/pedapallisuresh/Data-Pipeline-Agent/releases/tag/new-release)
+
+**📥 Download Resources**: [Get the Latest Release Assets](https://github.com/pedapallisuresh/Data-Pipeline-Agent/releases/tag/new-release)
+
+
 **AI-Orchestrated Medallion Architecture Data Pipeline using Google Agent Development Kit (ADK)**
 
 A production-ready implementation of the [Medallion Architecture](https://www.databricks.com/glossary/medallion-architecture) (Bronze → Silver → Gold) for ETL pipelines on Google Cloud Platform (GCP). Leverages [Google ADK](https://google.github.io/adk-docs/) for intelligent agent-based orchestration.
@@ -133,10 +138,12 @@ Input: "Process sales/november.csv"
 
 ## 🤝 Contributing & Releases
 See [ADK Contributing Guide](adk-python/contributing/README.md). PRs welcome!
-
 **Latest Release**: [![Release](https://img.shields.io/badge/Release-new--release-brightgreen.svg)](https://github.com/pedapallisuresh/Data-Pipeline-Agent/releases/tag/new-release)
 
+**📥 Download Resources**: [Get the Latest Release Assets](https://github.com/pedapallisuresh/Data-Pipeline-Agent/releases/tag/new-release)
+
 ## 📄 License
+
 [Apache 2.0](LICENSE) © Google LLC
 
 ---
